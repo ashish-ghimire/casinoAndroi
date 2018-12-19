@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Casino</string>
+    <string name="FrontScreenAppTitle">Casino</string>
+    <string name="FrontScreenNewGame">New Game</string>
+    <string name="FrontScreenLoadGame">Load Game</string>
+    <string name="FrontScreenMotto">Gamble away your savings one round at a time</string>
+    <string name="frontScreenLogoDescription">logo</string>
+    <string name="tossChoicePrompt">Human player, select your toss choice</string>
+    <string name="buttonTextResetMove">Reset Move</string>
+    <string name="humanPile">Human Pile:</string>
+    <string name="computerPlayerPile">Computer Pile</string>
+    <string name="numSpadesHuman">Num Spades Human:</string>
+    <string name="numSpadesComputer">Num Spades Computer:</string>
+    <string name="tournamentScoreComputer">"Tournament Score Computer: "</string>
+    <string name="tournamentScoreHuman">Tournament Score Human:</string>
+    <string name="buttonOkayDialog">Move On</string>
+    <string name="tournamentOver">Tournament Over</string>
+    <string name="gameOverHumanScore">Human Tournament Score:</string>
+    <string name="gameOverComputerScore">Computer Tournament Score:</string>
+    <string name="thanks">Gracias por jugar (Thank you for playing)</string>
+    <string name="game_state_human_pile">Human\'s Pile:</string>
+    <string name="game_state_human_hand">Human Hand:</string>
+    <string name="game_state_computer_pile">Computer Pile:</string>
+    <string name="game_state_computer_hand">Computer Hand:</string>
+    <string name="game_activity_game_state">Game State</string>
+</resources>
